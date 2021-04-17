@@ -1,0 +1,15 @@
+{
+  "name": "kap-tabs",
+  "version": "1.0.0",
+  "description": "Simple tabs. Just it.",
+  "main": "tabs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tabs",
+    "js"
+  ],
+  "author": "",
+  "license": "MIT"
+}
