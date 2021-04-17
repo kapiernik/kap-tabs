@@ -6,7 +6,8 @@ __BUT__
 
 ## Features
 
-- It weights only __1.47 kB__. Perfect.
+- Module weights only __1.47 kB__. Perfect.
+(Yeah, npm may show you more, but it's cause of README. Don't look at that)
 - If you don't need such a hard tabs, you can use and don't give a damn about the downloading page
 
 ## Installation
