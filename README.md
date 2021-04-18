@@ -32,6 +32,45 @@ __Nothing more__
 | `parentSelector`  | Selector of parent element  |
 | `activeClass`  | Certain __CLASS__, which defines the active tab |
 
+## WARNING
+
+Your CSS files must contain next classes:
+
+- __show__ <br>
+For example:
+
+        show{
+            opacity: 1;
+            display: block;
+            visibility: visible;
+        }
+
+- __hide__ <br>
+For example:
+
+        hide{
+            opacity: 0;
+            display: none;
+            visability: hidden;
+        }
+
+- __fade__ (Not necessary) <br>
+For example:
+
+        .fade{
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+        @keyframes fade{
+            from{
+                opacity: 0.1;
+            }
+            to{
+                opacity: 1;
+            }
+        }
+
+
 
 ## Support
 
