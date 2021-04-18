@@ -35,7 +35,7 @@ __Nothing more__
 
 ## Support
 
-- Make pull requests in case of suggestions
+- Make pull requests in case of suggestions: https://github.com/kapiernik/kap-tabs
 - Write on my email: kapiernik27@gmail.com
 
 ## License
